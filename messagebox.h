@@ -1,5 +1,5 @@
-// This Code Is Only Useful In Windows, For Linux 
-// Go to linux/messagebox.h
+// This Code Is Only Useful In Windows, For Posix
+// Go to 🍎 mac/messagebox.h
 
 #ifndef MESSAGEBOX_H
 #define MESSAGEBOX_H
